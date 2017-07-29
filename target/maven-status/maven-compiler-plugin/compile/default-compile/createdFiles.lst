@@ -1,0 +1,10 @@
+com\scs\university\course\registration\controller\StudentController.class
+com\scs\university\course\registration\model\Course.class
+com\scs\university\course\registration\service\CourseService.class
+com\scs\university\course\registration\repository\CourseRepository.class
+com\scs\university\course\registration\repository\StudentRepository.class
+com\scs\university\course\registration\service\CourseServiceImpl.class
+com\scs\university\course\registration\validate\StudentValidator.class
+com\scs\university\course\registration\service\StudentServiceImpl.class
+com\scs\university\course\registration\model\Student.class
+com\scs\university\course\registration\service\StudentService.class
