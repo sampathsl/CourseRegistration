@@ -33,6 +33,7 @@
 <div class="container">
 
     <form:form method="POST" modelAttribute="courseRegistrationForm" class="form-signin">
+        <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}"/>
         <h2 class="form-signin-heading">Course Registration</h2>
 
         <form:hidden path="id" class="form-control"></form:hidden>
